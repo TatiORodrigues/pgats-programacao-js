@@ -1,0 +1,10 @@
+/*
+Crie uma função que pega uma lista de inteiros e strings e retorna uma nova lista sem as strings. 
+*/
+function filtrarSomenteNumeros(lista) {
+  return lista.filter(item => typeof item === 'number');
+}
+
+// Exemplo de uso:
+const listaMista = [1, 'dois', 3, 'quatro', 5];
+console.log(filtrarSomenteNumeros(listaMista)); // Saída: [1, 3, 5]

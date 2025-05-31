@@ -1,23 +1,25 @@
 {
-  "name": "pgats-programacao",
+  "name": "pgats-programacao-js",
   "version": "1.0.0",
   "description": "Este repositório contém scripts em JavaScript desenvolvidos durante a disciplina **Programação para Automação de Testes**, parte do curso de **Pós-Graduação em Automação de Testes de Software**.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "mocha testes",
+    "test:prova": "node testes/prova.js",
+    "test:testes": "node testes/testes.js"
+    },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TatiORodrigues/pgats-programacao-js/tree/main"
+    "url": "https://github.com/TatiORodrigues/https-github.com-TatiORodrigues"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TatiORodrigues/https-github.com-TatiORodrigues/issues"
+    "url": "https://github.com/TatiORodrigues/PGATS_projetos/issues"
   },
-  "homepage": "https://github.com/TatiORodrigues/pgats-programacao-js/blob/main/README.md",
+  "homepage": "https://github.com/TatiORodrigues/PGATS_projetos#readme",
   "devDependencies": {
     "mocha": "^11.2.2"
   }

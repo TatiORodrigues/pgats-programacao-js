@@ -25,11 +25,10 @@ O objetivo deste projeto é praticar conceitos de automação, manipulação de 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/TatiORodrigues/https-github.com-TatiORodrigues.git
-
+   git clone https://github.com/TatiORodrigues/pgats-programacao-js.git
 2. Entre na pasta do projeto:
    ```bash
-    cd https-github.com-TatiORodrigues
+    cd pgats-programacao-js
 
 3. Execute os arquivos .js no navegador ou via Node.js:
     ```bash

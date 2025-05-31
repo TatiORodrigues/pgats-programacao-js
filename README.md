@@ -1,4 +1,4 @@
-# pgats-programacao-js
+# pgats-pos graduação em automação de testes de software_VINCIT
 Repositório para a Pós Graduação de Automação de Testes de Software
 
 # 🐶 Projeto: pgats-programacao-js

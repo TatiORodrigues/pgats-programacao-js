@@ -1,7 +1,3 @@
-//function geradorDeTagsDeIdentificacao(nome) {
-  //return 'PANTERA'
-//}
-
 export function geradorDeTagsDeIdentificacao(nome) {
   return nome.toUpperCase();
 }
